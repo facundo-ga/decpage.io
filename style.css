@@ -1257,3 +1257,8 @@ footer img {
   }
 }
 
+@media (max-width: 768px) { /* O ajusta el tamaño según tus necesidades */
+  article {
+    margin-top: 1cm;
+  }
+}
