@@ -1257,9 +1257,37 @@ footer img {
   }
 }
 
-@media (max-width: 768px) { /* O ajusta el tamaño según tus necesidades */
+
+@media (max-width: 768px) { 
+  article {
+    margin-top: 2cm;
+  }
+}
+
+
+@media (max-width: 600px) {
+  .styled-div {
+    display: none;
+  }
+}
+
+
+@media (max-width: 600px) { 
   article {
     margin-top: 3cm;
   }
 }
 
+@media (max-width: 768px) {
+  #modeIcon {
+    width: 40px;
+    height: 40px;
+  }
+}
+
+@media (max-width: 600px) { 
+  #modeIcon {
+    width: 40px;
+    height: 40px;
+  }
+}
