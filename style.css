@@ -448,13 +448,13 @@ body article {
 }
 
 .video-button::before {
-  background-image: url('/img/ico/video.gif');
+  background-image: url('img/ico/video.gif');
   
 
 }
 
 .audio-button::before {
-  background-image: url('/img/ico/earphones.gif');
+  background-image: url('img/ico/earphones.gif');
   
 
 }
