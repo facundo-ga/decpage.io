@@ -580,11 +580,11 @@ footer img {
   font-size: 20px;
   cursor: pointer;
 }
-
+/*
 .mobile-alert {
   display: none;
 }
-
+*/
 
 .dark-mode {
   background: linear-gradient(180deg, #564e4e 0%, #222020 100%);
@@ -600,7 +600,7 @@ footer img {
   background-color: #292929;
   color: #858587;
 }
-
+/*
 .mobile-alert, .desktop-video {
   display: none;
 }
@@ -610,7 +610,7 @@ footer img {
   margin-top: 20px;
   font-size: 16px;
 }
-
+*/
 
 
 @media only screen and (max-width: 600px) {
