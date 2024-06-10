@@ -13,8 +13,10 @@ body {
   align-items: center;
   justify-content: flex-start;
   background: linear-gradient(180deg, #48d5f1 0%, #eaf513 100%);
-  width: 100vw;
-  height: 100vh;
+  /*width: 100vw;
+  height: 100vh;*/
+  idth: 100%;
+  height: 100%;
   overflow: hidden;
   font-family: "Arial";
   font-optical-sizing: auto;
