@@ -15,8 +15,8 @@ body {
   background: linear-gradient(180deg, #48d5f1 0%, #eaf513 100%);
   /*width: 100vw;
   height: 100vh;*/
- width: 100%;
-  height: 100%;;
+ width: auto;
+  height: auto;;
   overflow: hidden;
   font-family: "Arial";
   font-optical-sizing: auto;
@@ -32,8 +32,8 @@ body article {
   width: 100%;
   height: 100%;
   */
-  width: 100%;
-  height: 100%;
+  width: auto;
+  height: auto;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -42,8 +42,8 @@ body article {
 
 .parallax-container {
   position: relative;
-  width: 100%;
-  height: 100%;
+  width: auto;
+  height:auto;
 }
 
 .styled-div {
