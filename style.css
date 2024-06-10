@@ -580,11 +580,11 @@ footer img {
   font-size: 20px;
   cursor: pointer;
 }
-/*
+
 .mobile-alert {
   display: none;
 }
-*/
+
 
 .dark-mode {
   background: linear-gradient(180deg, #564e4e 0%, #222020 100%);
