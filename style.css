@@ -196,7 +196,7 @@ body article {
   top:  50%;
   width: 100%;
   height: 100%;
-  background-image: url("/bandera.svg");
+  background-image: url("img/bandera.svg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -465,13 +465,13 @@ body article {
 }
 
 .video-button::before {
-  background-image: url('/img/ico/video.gif');
+  background-image: url('img/ico/video.gif');
   
 
 }
 
 .audio-button::before {
-  background-image: url('/img/ico/earphones.gif');
+  background-image: url('img/ico/earphones.gif');
   
 
 }
