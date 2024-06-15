@@ -169,8 +169,8 @@ body article {
 }
 
 .swiper {
-  width: 110%;
-  height: 80%;
+  height: calc(72% + 1cm);
+  width: 110%;  
   padding: 40px 20px;
   overflow: visible;
 }
