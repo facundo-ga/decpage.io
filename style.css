@@ -192,8 +192,8 @@ body article {
 /**/
 .swiper .parallax-bg {
   position: absolute;
-  right:  50%;
-  top:  50%;
+  right: 0;
+  top: 0;
   width: 100%;
   height: 100%;
   background-image: url("img/bandera.svg");
@@ -201,6 +201,7 @@ body article {
   background-position: center;
   background-repeat: no-repeat;
 }
+
 
 
 .swiper .swiper-wrapper {
